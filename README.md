@@ -10,7 +10,7 @@ Calculate the **total working hours per employee per day** when:
 - An employee may have **multiple check-in and check-out entries** on the same day.
 - Working hours should be calculated accurately by summing all time intervals.
 
----
+--
 
 ## 🗂 Database Used
 
